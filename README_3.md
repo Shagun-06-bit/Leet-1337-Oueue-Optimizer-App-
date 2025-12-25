@@ -25,33 +25,33 @@ QR-Based Smart Queue Management System
         • Current date & time 
         • Status: Queue Open / Closed 
  
-  II. Queue Information Card 
+     II. Queue Information Card 
       Shows real-time information: 
         • Number of people ahead 
         • User’s position in queue 
         • Estimated waiting time 
         • Confidence message (e.g., “Based on recent service speed”) 
         
-  III. Action Buttons 
+    III. Action Buttons 
         • Join Queue 
         • Leave Queue 
         • Refresh Status 
  
-   IV. Notification Preferences 
+     IV. Notification Preferences 
         • Choose alert timing (e.g., “Notify when 3 people left”) 
         • Optional contact detail (phone/email)
         
-   V. Status Messages 
+      V. Status Messages 
         • “You are now in queue” 
         • “Your turn is approaching” 
         • “Queue paused temporarily” 
  
-   VI. Trust & Privacy 
+      VI. Trust & Privacy 
         • “No camera used” 
         • “No personal data stored” 
         • “Privacy-safe system” 
  
-   VII. How a Customer Operates the System 
+      VII. How a Customer Operates the System 
         1. Sees QR at counter 
         2. Scans QR using phone 
         3. Opens queue page in browser 
