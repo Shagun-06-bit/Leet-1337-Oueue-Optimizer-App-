@@ -1,9 +1,9 @@
-WEBSITE COMPONENTS & OPERATION FLOW
+# WEBSITE COMPONENTS & OPERATION FLOW
 
 
-QR-Based Smart Queue Management System
+## QR-Based Smart Queue Management System
 
-1. USER ROLES (Who Uses What)
+# 1. USER ROLES (Who Uses What)
     
      - Customer / Visitor
        (student, patient, customer)
