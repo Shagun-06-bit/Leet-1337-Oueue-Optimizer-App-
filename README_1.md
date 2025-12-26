@@ -1,4 +1,4 @@
-# Adaptive Queue Optimizer
+# QueueAdmin
 
 ## Problem Statement (Impact & Relevance)
 In high-footfall environments such as hospitals, banks, government offices, colleges, and retail service centers, unmanaged queues lead to excessive waiting time, overcrowding, stress, and inefficient service delivery. Physical queues are difficult to manage, especially in public and government spaces where resources and infrastructure are limited.
@@ -82,7 +82,7 @@ The system architecture is modular, allowing quick prototyping within the hackat
 ---
 
 ## Team Details
-Project Name: Adaptive Queue Optimizer  
+Project Name: QueueAdmin  
 Team Name: Leet 1337
 
 ---
