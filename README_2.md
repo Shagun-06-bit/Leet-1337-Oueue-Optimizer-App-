@@ -3,21 +3,21 @@
 
 ## QR-Based Smart Queue Management System
 
-# 1. USER ROLES (Who Uses What)
+## 1. USER ROLES (Who Uses What)
     
-     - Customer / Visitor
+     1. Customer / Visitor
        (student, patient, customer)
-     - Counter Staff
+     2. Counter Staff
        (canteen staff, hospital desk operator)
-     - Business / Organization Admin
+     3. Business / Organization Admin
        (manager, owner, administrator)
        
   Each role has a separate dashboard with different controls.
 
-2. CUSTOMER DASHBOARD (After Scanning QR) 
+## 2. CUSTOMER DASHBOARD (After Scanning QR) 
        Purpose : To let users join a queue, track their turn, and avoid standing in line. 
  
-      ## Components on Customer Page
+       Components on Customer Page
      
       I. Header Section 
         • Business name 
@@ -60,10 +60,10 @@
         6. Receives alert when turn is near 
         7. Comes to counter and gets served
 
- 3. COUNTER STAFF DASHBOARD
+ ## 3. COUNTER STAFF DASHBOARD
     Purpose : To manage the live queue efficiently and fairly.
     
-       ## Components on Staff Dashboard
+     Components on Staff Dashboard
     
      I. Counter Status Panel 
         • Counter name 
@@ -97,10 +97,10 @@
         6. Continues until queue ends
 
 
-5. BUSINESS / ORGANIZATION ADMIN DASHBOARD 
+## 5. BUSINESS / ORGANIZATION ADMIN DASHBOARD 
     Purpose : To onboard counters, monitor performance, and analyze queue data. 
  
-    ## Components on Admin Dashboard 
+     Components on Admin Dashboard 
  
      I. Overview Section 
         • Total visitors today 
@@ -138,7 +138,7 @@
         6. Reviews analytics regularly 
         7. Optimizes staffing & flow
 
-5. COMPLETE OPERATION FLOW (START TO END)
+## 5. COMPLETE OPERATION FLOW (START TO END)
    
    Step 1: Setup (One-Time) 
        • Business registers 
@@ -163,7 +163,7 @@
        • Admin checks reports 
        • Adjusts staffing or timing
    
-7. WHY THIS STRUCTURE WORKS
+## 7. WHY THIS STRUCTURE WORKS
    
 - Simple for users 
 - Minimal effort for staff 
